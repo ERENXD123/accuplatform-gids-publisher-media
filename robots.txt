@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://accuplatform-gids-publisher-media.onrender.com/sitemap.xml
